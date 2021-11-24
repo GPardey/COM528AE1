@@ -7,10 +7,8 @@ This project requires us to make a web based PoS app which will be used to enter
 
 ### Project Goals 
 
--Working card device
--Clear and useable UI
--Storage of credentials
--Log all transactions minus the CVV codes
-
-### Tasks
+- Working card device
+- Clear and useable UI
+- Storage of credentials
+- Log all transactions minus the CVV codes
 
